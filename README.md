@@ -5,6 +5,6 @@ This repository hosts the code for a PDF summarizer implemented using the GPT la
 The provided Jupyter notebook, Economic_Overview_2022_2023_GPT+Langchain.ipynb, showcases the application of the PDF summarizer on economic overviews for the years 2022 and 2023. This example will help you understand how to use the summarizer for your own use cases.
 
 # How to Use
-Clone this repository to your local machine.
-Open the Economic_Overview_2022_2023_GPT+Langchain.ipynb Jupyter notebook.
-Follow the steps outlined in the notebook to run the summarizer on your PDF files
+1. Clone this repository to your local machine.
+2. Open the Economic_Overview_2022_2023_GPT+Langchain.ipynb Jupyter notebook.
+3. Follow the steps outlined in the notebook to run the summarizer on your PDF files
